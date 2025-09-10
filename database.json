@@ -18,12 +18,12 @@
           {
             "color": "Amarillo",
             "fotosProducto": [
-              "producto1.1.webp",
-              "producto1.2.webp",
-              "producto1.3.webp",
-              "producto1.4.webp",
-              "producto1.5.webp",
-              "producto1.6.webp"
+              "/img/producto1.1.webp",
+              "/img/producto1.2.webp",
+              "/img/producto1.3.webp",
+              "/img/producto1.4.webp",
+              "/img/producto1.5.webp",
+              "/img/producto1.6.webp"
             ]
           }
         ],
@@ -56,12 +56,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto2.1.webp",
-              "producto2.2.webp",
-              "producto2.3.webp",
-              "producto2.4.webp",
-              "producto2.5.webp",
-              "producto2.6.webp"
+              "/img/producto2.1.webp",
+              "/img/producto2.2.webp",
+              "/img/producto2.3.webp",
+              "/img/producto2.4.webp",
+              "/img/producto2.5.webp",
+              "/img/producto2.6.webp"
             ]
           }
         ],
@@ -94,12 +94,12 @@
           {
             "color": "Gris",
             "fotosProducto": [
-              "producto3.1.webp",
-              "producto3.2.webp",
-              "producto3.3.webp",
-              "producto3.4.webp",
-              "producto3.5.webp",
-              "producto3.6.webp"
+              "/img/producto3.1.webp",
+              "/img/producto3.2.webp",
+              "/img/producto3.3.webp",
+              "/img/producto3.4.webp",
+              "/img/producto3.5.webp",
+              "/img/producto3.6.webp"
             ]
           }
         ],
@@ -132,12 +132,12 @@
           {
             "color": "Morado",
             "fotosProducto": [
-              "producto4.1.webp",
-              "producto4.2.webp",
-              "producto4.3.webp",
-              "producto4.4.webp",
-              "producto4.5.webp",
-              "producto4.6.webp"
+              "/img/producto4.1.webp",
+              "/img/producto4.2.webp",
+              "/img/producto4.3.webp",
+              "/img/producto4.4.webp",
+              "/img/producto4.5.webp",
+              "/img/producto4.6.webp"
             ]
           }
         ],
@@ -170,11 +170,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto5.1.webp",
-              "producto5.2.webp",
-              "producto5.3.webp",
-              "producto5.4.webp",
-              "producto5.5.webp"
+              "/img/producto5.1.webp",
+              "/img/producto5.2.webp",
+              "/img/producto5.3.webp",
+              "/img/producto5.4.webp",
+              "/img/producto5.5.webp"
             ]
           }
         ],
@@ -206,9 +206,9 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto6.1.webp",
-              "producto6.2.webp",
-              "producto6.3.webp"
+              "/img/producto6.1.webp",
+              "/img/producto6.2.webp",
+              "/img/producto6.3.webp"
             ]
           }
         ],
@@ -240,12 +240,12 @@
           {
             "color": "Blanco",
             "fotosProducto": [
-              "producto7.1.webp",
-              "producto7.2.webp",
-              "producto7.3.webp",
-              "producto7.4.webp",
-              "producto7.5.webp",
-              "producto7.6.webp"
+              "/img/producto7.1.webp",
+              "/img/producto7.2.webp",
+              "/img/producto7.3.webp",
+              "/img/producto7.4.webp",
+              "/img/producto7.5.webp",
+              "/img/producto7.6.webp"
             ]
           }
         ],
@@ -277,9 +277,9 @@
           {
             "color": "Blanco",
             "fotosProducto": [
-              "producto8.1.webp",
-              "producto8.2.webp",
-              "producto8.3.webp"
+              "/img/producto8.1.webp",
+              "/img/producto8.2.webp",
+              "/img/producto8.3.webp"
             ]
           }
         ],
@@ -311,12 +311,12 @@
           {
             "color": "Café",
             "fotosProducto": [
-              "producto9.1.webp",
-              "producto9.2.webp",
-              "producto9.3.webp",
-              "producto9.4.webp",
-              "producto9.5.webp",
-              "producto9.6.webp"
+              "/img/producto9.1.webp",
+              "/img/producto9.2.webp",
+              "/img/producto9.3.webp",
+              "/img/producto9.4.webp",
+              "/img/producto9.5.webp",
+              "/img/producto9.6.webp"
             ]
           }
         ],
@@ -348,11 +348,11 @@
           {
             "color": "Verde",
             "fotosProducto": [
-              "producto10.1.webp",
-              "producto10.2.webp",
-              "producto10.3.webp",
-              "producto10.4.webp",
-              "producto10.5.webp"
+              "/img/producto10.1.webp",
+              "/img/producto10.2.webp",
+              "/img/producto10.3.webp",
+              "/img/producto10.4.webp",
+              "/img/producto10.5.webp"
             ]
           }
         ],
@@ -384,12 +384,12 @@
           {
             "color": "Café",
             "fotosProducto": [
-              "producto11.1.webp",
-              "producto11.2.webp",
-              "producto11.3.webp",
-              "producto11.4.webp",
-              "producto11.5.webp",
-              "producto11.6.webp"
+              "/img/producto11.1.webp",
+              "/img/producto11.2.webp",
+              "/img/producto11.3.webp",
+              "/img/producto11.4.webp",
+              "/img/producto11.5.webp",
+              "/img/producto11.6.webp"
             ]
           }
         ],
@@ -421,11 +421,11 @@
           {
             "color": "Amarillo",
             "fotosProducto": [
-              "producto12.1.webp",
-              "producto12.2.webp",
-              "producto12.3.webp",
-              "producto12.4.webp",
-              "producto12.5.webp"
+              "/img/producto12.1.webp",
+              "/img/producto12.2.webp",
+              "/img/producto12.3.webp",
+              "/img/producto12.4.webp",
+              "/img/producto12.5.webp"
             ]
           }
         ],
@@ -457,12 +457,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto13.1.webp",
-              "producto13.2.webp",
-              "producto13.3.webp",
-              "producto13.4.webp",
-              "producto13.5.webp",
-              "producto13.6.webp"
+              "/img/producto13.1.webp",
+              "/img/producto13.2.webp",
+              "/img/producto13.3.webp",
+              "/img/producto13.4.webp",
+              "/img/producto13.5.webp",
+              "/img/producto13.6.webp"
             ]
           }
         ],
@@ -494,12 +494,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto14.1.webp",
-              "producto14.2.webp",
-              "producto14.3.webp",
-              "producto14.4.webp",
-              "producto14.5.webp",
-              "producto14.6.webp"
+              "/img/producto14.1.webp",
+              "/img/producto14.2.webp",
+              "/img/producto14.3.webp",
+              "/img/producto14.4.webp",
+              "/img/producto14.5.webp",
+              "/img/producto14.6.webp"
             ]
           }
         ],
@@ -531,12 +531,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto15.1.webp",
-              "producto15.2.webp",
-              "producto15.3.webp",
-              "producto15.4.webp",
-              "producto15.5.webp",
-              "producto15.6.webp"
+              "/img/producto15.1.webp",
+              "/img/producto15.2.webp",
+              "/img/producto15.3.webp",
+              "/img/producto15.4.webp",
+              "/img/producto15.5.webp",
+              "/img/producto15.6.webp"
             ]
           }
         ],
@@ -568,10 +568,10 @@
           {
             "color": "Verde",
             "fotosProducto": [
-              "producto16.1.webp",
-              "producto16.2.webp",
-              "producto16.3.webp",
-              "producto16.4.webp"
+              "/img/producto16.1.webp",
+              "/img/producto16.2.webp",
+              "/img/producto16.3.webp",
+              "/img/producto16.4.webp"
             ]
           }
         ],
@@ -603,12 +603,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto17.1.webp",
-              "producto17.2.webp",
-              "producto17.3.webp",
-              "producto17.4.webp",
-              "producto17.5.webp",
-              "producto17.6.webp"
+              "/img/producto17.1.webp",
+              "/img/producto17.2.webp",
+              "/img/producto17.3.webp",
+              "/img/producto17.4.webp",
+              "/img/producto17.5.webp",
+              "/img/producto17.6.webp"
             ]
           }
         ],
@@ -640,12 +640,12 @@
           {
             "color": "Verde oscuro",
             "fotosProducto": [
-              "producto18.1.webp",
-              "producto18.2.webp",
-              "producto18.3.webp",
-              "producto18.4.webp",
-              "producto18.5.webp",
-              "producto18.6.webp"
+              "/img/producto18.1.webp",
+              "/img/producto18.2.webp",
+              "/img/producto18.3.webp",
+              "/img/producto18.4.webp",
+              "/img/producto18.5.webp",
+              "/img/producto18.6.webp"
             ]
           }
         ],
@@ -677,12 +677,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto19.1.webp",
-              "producto19.2.webp",
-              "producto19.3.webp",
-              "producto19.4.webp",
-              "producto19.5.webp",
-              "producto19.6.webp"
+              "/img/producto19.1.webp",
+              "/img/producto19.2.webp",
+              "/img/producto19.3.webp",
+              "/img/producto19.4.webp",
+              "/img/producto19.5.webp",
+              "/img/producto19.6.webp"
             ]
           }
         ],
@@ -714,12 +714,12 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto20.1.webp",
-              "producto20.2.webp",
-              "producto20.3.webp",
-              "producto20.4.webp",
-              "producto20.5.webp",
-              "producto20.6.webp"
+              "/img/producto20.1.webp",
+              "/img/producto20.2.webp",
+              "/img/producto20.3.webp",
+              "/img/producto20.4.webp",
+              "/img/producto20.5.webp",
+              "/img/producto20.6.webp"
             ]
           }
         ],
@@ -751,12 +751,12 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto21.1.webp",
-              "producto21.2.webp",
-              "producto21.3.webp",
-              "producto21.4.webp",
-              "producto21.5.webp",
-              "producto21.6.webp"
+              "/img/producto21.1.webp",
+              "/img/producto21.2.webp",
+              "/img/producto21.3.webp",
+              "/img/producto21.4.webp",
+              "/img/producto21.5.webp",
+              "/img/producto21.6.webp"
             ]
           }
         ],
@@ -788,12 +788,12 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto22.1.webp",
-              "producto22.2.webp",
-              "producto22.3.webp",
-              "producto22.4.webp",
-              "producto22.5.webp",
-              "producto22.6.webp"
+              "/img/producto22.1.webp",
+              "/img/producto22.2.webp",
+              "/img/producto22.3.webp",
+              "/img/producto22.4.webp",
+              "/img/producto22.5.webp",
+              "/img/producto22.6.webp"
             ]
           }
         ],
@@ -825,11 +825,11 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto23.1.webp",
-              "producto23.2.webp",
-              "producto23.3.webp",
-              "producto23.4.webp",
-              "producto23.5.webp"
+              "/img/producto23.1.webp",
+              "/img/producto23.2.webp",
+              "/img/producto23.3.webp",
+              "/img/producto23.4.webp",
+              "/img/producto23.5.webp"
             ]
           }
         ],
@@ -861,11 +861,11 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto24.1.webp",
-              "producto24.2.webp",
-              "producto24.3.webp",
-              "producto24.4.webp",
-              "producto24.5.webp"
+              "/img/producto24.1.webp",
+              "/img/producto24.2.webp",
+              "/img/producto24.3.webp",
+              "/img/producto24.4.webp",
+              "/img/producto24.5.webp"
             ]
           }
         ],
@@ -897,10 +897,10 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto25.1.webp",
-              "producto25.2.webp",
-              "producto25.3.webp",
-              "producto25.4.webp"
+              "/img/producto25.1.webp",
+              "/img/producto25.2.webp",
+              "/img/producto25.3.webp",
+              "/img/producto25.4.webp"
             ]
           }
         ],
@@ -932,11 +932,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto26.1.webp",
-              "producto26.2.webp",
-              "producto26.3.webp",
-              "producto26.4.webp",
-              "producto26.5.webp"
+              "/img/producto26.1.webp",
+              "/img/producto26.2.webp",
+              "/img/producto26.3.webp",
+              "/img/producto26.4.webp",
+              "/img/producto26.5.webp"
             ]
           }
         ],
@@ -968,11 +968,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto27.1.webp",
-              "producto27.2.webp",
-              "producto27.3.webp",
-              "producto27.4.webp",
-              "producto27.5.webp"
+              "/img/producto27.1.webp",
+              "/img/producto27.2.webp",
+              "/img/producto27.3.webp",
+              "/img/producto27.4.webp",
+              "/img/producto27.5.webp"
             ]
           }
         ],
@@ -1004,11 +1004,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto28.1.webp",
-              "producto28.2.webp",
-              "producto28.3.webp",
-              "producto28.4.webp",
-              "producto28.5.webp"
+              "/img/producto28.1.webp",
+              "/img/producto28.2.webp",
+              "/img/producto28.3.webp",
+              "/img/producto28.4.webp",
+              "/img/producto28.5.webp"
             ]
           }
         ],
@@ -1040,11 +1040,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto29.1.webp",
-              "producto29.2.webp",
-              "producto29.3.webp",
-              "producto29.4.webp",
-              "producto29.5.webp"
+              "/img/producto29.1.webp",
+              "/img/producto29.2.webp",
+              "/img/producto29.3.webp",
+              "/img/producto29.4.webp",
+              "/img/producto29.5.webp"
             ]
           }
         ],
@@ -1076,11 +1076,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto30.1.webp",
-              "producto30.2.webp",
-              "producto30.3.webp",
-              "producto30.4.webp",
-              "producto30.5.webp"
+              "/img/producto30.1.webp",
+              "/img/producto30.2.webp",
+              "/img/producto30.3.webp",
+              "/img/producto30.4.webp",
+              "/img/producto30.5.webp"
             ]
           }
         ],
@@ -1112,12 +1112,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto31.1.webp",
-              "producto31.2.webp",
-              "producto31.3.webp",
-              "producto31.4.webp",
-              "producto31.5.webp",
-              "producto31.6.webp"
+              "/img/producto31.1.webp",
+              "/img/producto31.2.webp",
+              "/img/producto31.3.webp",
+              "/img/producto31.4.webp",
+              "/img/producto31.5.webp",
+              "/img/producto31.6.webp"
             ]
           }
         ],
@@ -1149,11 +1149,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto32.1.webp",
-              "producto32.2.webp",
-              "producto32.3.webp",
-              "producto32.4.webp",
-              "producto32.5.webp"
+              "/img/producto32.1.webp",
+              "/img/producto32.2.webp",
+              "/img/producto32.3.webp",
+              "/img/producto32.4.webp",
+              "/img/producto32.5.webp"
             ]
           }
         ],
@@ -1185,11 +1185,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto33.1.webp",
-              "producto33.2.webp",
-              "producto33.3.webp",
-              "producto33.4.webp",
-              "producto33.5.webp"
+              "/img/producto33.1.webp",
+              "/img/producto33.2.webp",
+              "/img/producto33.3.webp",
+              "/img/producto33.4.webp",
+              "/img/producto33.5.webp"
             ]
           }
         ],
@@ -1221,12 +1221,12 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto34.1.webp",
-              "producto34.2.webp",
-              "producto34.3.webp",
-              "producto34.4.webp",
-              "producto34.5.webp",
-              "producto34.6.webp"
+              "/img/producto34.1.webp",
+              "/img/producto34.2.webp",
+              "/img/producto34.3.webp",
+              "/img/producto34.4.webp",
+              "/img/producto34.5.webp",
+              "/img/producto34.6.webp"
             ]
           }
         ],
@@ -1258,12 +1258,12 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto35.1.webp",
-              "producto35.2.webp",
-              "producto35.3.webp",
-              "producto35.4.webp",
-              "producto35.5.webp",
-              "producto35.6.webp"
+              "/img/producto35.1.webp",
+              "/img/producto35.2.webp",
+              "/img/producto35.3.webp",
+              "/img/producto35.4.webp",
+              "/img/producto35.5.webp",
+              "/img/producto35.6.webp"
             ]
           }
         ],
@@ -1295,12 +1295,12 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto36.1.webp",
-              "producto36.2.webp",
-              "producto36.3.webp",
-              "producto36.4.webp",
-              "producto36.5.webp",
-              "producto36.6.webp"
+              "/img/producto36.1.webp",
+              "/img/producto36.2.webp",
+              "/img/producto36.3.webp",
+              "/img/producto36.4.webp",
+              "/img/producto36.5.webp",
+              "/img/producto36.6.webp"
             ]
           }
         ],
@@ -1332,12 +1332,12 @@
           {
             "color": "Verde",
             "fotosProducto": [
-              "producto37.1.webp",
-              "producto37.2.webp",
-              "producto37.3.webp",
-              "producto37.4.webp",
-              "producto37.5.webp",
-              "producto37.6.webp"
+              "/img/producto37.1.webp",
+              "/img/producto37.2.webp",
+              "/img/producto37.3.webp",
+              "/img/producto37.4.webp",
+              "/img/producto37.5.webp",
+              "/img/producto37.6.webp"
             ]
           }
         ],
@@ -1369,12 +1369,12 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto38.1.webp",
-              "producto38.2.webp",
-              "producto38.3.webp",
-              "producto38.4.webp",
-              "producto38.5.webp",
-              "producto38.6.webp"
+              "/img/producto38.1.webp",
+              "/img/producto38.2.webp",
+              "/img/producto38.3.webp",
+              "/img/producto38.4.webp",
+              "/img/producto38.5.webp",
+              "/img/producto38.6.webp"
             ]
           }
         ],
@@ -1406,12 +1406,12 @@
           {
             "color": "Beige",
             "fotosProducto": [
-              "producto39.1.webp",
-              "producto39.2.webp",
-              "producto39.3.webp",
-              "producto39.4.webp",
-              "producto39.5.webp",
-              "producto39.6.webp"
+              "/img/producto39.1.webp",
+              "/img/producto39.2.webp",
+              "/img/producto39.3.webp",
+              "/img/producto39.4.webp",
+              "/img/producto39.5.webp",
+              "/img/producto39.6.webp"
             ]
           }
         ],
@@ -1443,11 +1443,11 @@
           {
             "color": "Crudo",
             "fotosProducto": [
-              "producto40.1.webp",
-              "producto40.2.webp",
-              "producto40.3.webp",
-              "producto40.4.webp",
-              "producto40.5.webp"
+              "/img/producto40.1.webp",
+              "/img/producto40.2.webp",
+              "/img/producto40.3.webp",
+              "/img/producto40.4.webp",
+              "/img/producto40.5.webp"
             ]
           }
         ],
@@ -1479,11 +1479,11 @@
           {
             "color": "Café",
             "fotosProducto": [
-              "producto41.1.webp",
-              "producto41.2.webp",
-              "producto41.3.webp",
-              "producto41.4.webp",
-              "producto41.5.webp"
+              "/img/producto41.1.webp",
+              "/img/producto41.2.webp",
+              "/img/producto41.3.webp",
+              "/img/producto41.4.webp",
+              "/img/producto41.5.webp"
             ]
           }
         ],
@@ -1516,12 +1516,12 @@
           {
             "color": "Beige",
             "fotosProducto": [
-              "producto42.1.webp",
-              "producto42.2.webp",
-              "producto42.3.webp",
-              "producto42.4.webp",
-              "producto42.5.webp",
-              "producto42.6.webp"
+              "/img/producto42.1.webp",
+              "/img/producto42.2.webp",
+              "/img/producto42.3.webp",
+              "/img/producto42.4.webp",
+              "/img/producto42.5.webp",
+              "/img/producto42.6.webp"
             ]
           }
         ],
@@ -1554,12 +1554,12 @@
           {
             "color": "Beige",
             "fotosProducto": [
-              "producto43.1.webp",
-              "producto43.2.webp",
-              "producto43.3.webp",
-              "producto43.4.webp",
-              "producto43.5.webp",
-              "producto43.6.webp"
+              "/img/producto43.1.webp",
+              "/img/producto43.2.webp",
+              "/img/producto43.3.webp",
+              "/img/producto43.4.webp",
+              "/img/producto43.5.webp",
+              "/img/producto43.6.webp"
             ]
           }
         ],
@@ -1592,10 +1592,10 @@
           {
             "color": "Gris",
             "fotosProducto": [
-              "producto44.1.webp",
-              "producto44.2.webp",
-              "producto44.3.webp",
-              "producto44.4.webp"
+              "/img/producto44.1.webp",
+              "/img/producto44.2.webp",
+              "/img/producto44.3.webp",
+              "/img/producto44.4.webp"
             ]
           }
         ],
@@ -1628,11 +1628,11 @@
           {
             "color": "Crudo",
             "fotosProducto": [
-              "producto45.1.webp",
-              "producto45.2.webp",
-              "producto45.3.webp",
-              "producto45.4.webp",
-              "producto45.5.webp"
+              "/img/producto45.1.webp",
+              "/img/producto45.2.webp",
+              "/img/producto45.3.webp",
+              "/img/producto45.4.webp",
+              "/img/producto45.5.webp"
             ]
           }
         ],
@@ -1664,12 +1664,12 @@
           {
             "color": "Blanco",
             "fotosProducto": [
-              "producto46.1.webp",
-              "producto46.2.webp",
-              "producto46.3.webp",
-              "producto46.4.webp",
-              "producto46.5.webp",
-              "producto46.6.webp"
+              "/img/producto46.1.webp",
+              "/img/producto46.2.webp",
+              "/img/producto46.3.webp",
+              "/img/producto46.4.webp",
+              "/img/producto46.5.webp",
+              "/img/producto46.6.webp"
             ]
           }
         ],
@@ -1701,10 +1701,10 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto47.1.webp",
-              "producto47.2.webp",
-              "producto47.3.webp",
-              "producto47.4.webp"
+              "/img/producto47.1.webp",
+              "/img/producto47.2.webp",
+              "/img/producto47.3.webp",
+              "/img/producto47.4.webp"
             ]
           }
         ],
@@ -1736,12 +1736,12 @@
           {
             "color": "Beige",
             "fotosProducto": [
-              "producto48.1.webp",
-              "producto48.2.webp",
-              "producto48.3.webp",
-              "producto48.4.webp",
-              "producto48.5.webp",
-              "producto48.6.webp"
+              "/img/producto48.1.webp",
+              "/img/producto48.2.webp",
+              "/img/producto48.3.webp",
+              "/img/producto48.4.webp",
+              "/img/producto48.5.webp",
+              "/img/producto48.6.webp"
             ]
           }
         ],
@@ -1773,12 +1773,12 @@
           {
             "color": "Café",
             "fotosProducto": [
-              "producto49.1.webp",
-              "producto49.2.webp",
-              "producto49.3.webp",
-              "producto49.4.webp",
-              "producto49.5.webp",
-              "producto49.6.webp"
+              "/img/producto49.1.webp",
+              "/img/producto49.2.webp",
+              "/img/producto49.3.webp",
+              "/img/producto49.4.webp",
+              "/img/producto49.5.webp",
+              "/img/producto49.6.webp"
             ]
           }
         ],
@@ -1810,10 +1810,10 @@
           {
             "color": "Blanco",
             "fotosProducto": [
-              "producto50.1.webp",
-              "producto50.2.webp",
-              "producto50.3.webp",
-              "producto50.4.webp"
+              "/img/producto50.1.webp",
+              "/img/producto50.2.webp",
+              "/img/producto50.3.webp",
+              "/img/producto50.4.webp"
             ]
           }
         ],
@@ -1845,12 +1845,12 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto51.1.webp",
-              "producto51.2.webp",
-              "producto51.3.webp",
-              "producto51.4.webp",
-              "producto51.5.webp",
-              "producto51.6.webp"
+              "/img/producto51.1.webp",
+              "/img/producto51.2.webp",
+              "/img/producto51.3.webp",
+              "/img/producto51.4.webp",
+              "/img/producto51.5.webp",
+              "/img/producto51.6.webp"
             ]
           }
         ],
@@ -1882,12 +1882,12 @@
           {
             "color": "Verde",
             "fotosProducto": [
-              "producto52.1.webp",
-              "producto52.2.webp",
-              "producto52.3.webp",
-              "producto52.4.webp",
-              "producto52.5.webp",
-              "producto52.6.webp"
+              "/img/producto52.1.webp",
+              "/img/producto52.2.webp",
+              "/img/producto52.3.webp",
+              "/img/producto52.4.webp",
+              "/img/producto52.5.webp",
+              "/img/producto52.6.webp"
             ]
           }
         ],
@@ -1919,11 +1919,11 @@
           {
             "color": "Gris",
             "fotosProducto": [
-              "producto53.1.webp",
-              "producto53.2.webp",
-              "producto53.3.webp",
-              "producto53.4.webp",
-              "producto53.5.webp"
+              "/img/producto53.1.webp",
+              "/img/producto53.2.webp",
+              "/img/producto53.3.webp",
+              "/img/producto53.4.webp",
+              "/img/producto53.5.webp"
             ]
           }
         ],
@@ -1955,10 +1955,10 @@
           {
             "color": "Café",
             "fotosProducto": [
-              "producto54.1.webp",
-              "producto54.2.webp",
-              "producto54.3.webp",
-              "producto54.4.webp"
+              "/img/producto54.1.webp",
+              "/img/producto54.2.webp",
+              "/img/producto54.3.webp",
+              "/img/producto54.4.webp"
             ]
           }
         ],
@@ -1990,12 +1990,12 @@
           {
             "color": "Gris",
             "fotosProducto": [
-              "producto55.1.webp",
-              "producto55.2.webp",
-              "producto55.3.webp",
-              "producto55.4.webp",
-              "producto55.5.webp",
-              "producto55.6.webp"
+              "/img/producto55.1.webp",
+              "/img/producto55.2.webp",
+              "/img/producto55.3.webp",
+              "/img/producto55.4.webp",
+              "/img/producto55.5.webp",
+              "/img/producto55.6.webp"
             ]
           }
         ],
@@ -2027,11 +2027,11 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto56.1.webp",
-              "producto56.2.webp",
-              "producto56.3.webp",
-              "producto56.4.webp",
-              "producto56.5.webp"
+              "/img/producto56.1.webp",
+              "/img/producto56.2.webp",
+              "/img/producto56.3.webp",
+              "/img/producto56.4.webp",
+              "/img/producto56.5.webp"
             ]
           }
         ],
@@ -2063,13 +2063,13 @@
           {
             "color": "Caqui",
             "fotosProducto": [
-              "producto57.1.webp",
-              "producto57.2.webp",
-              "producto57.3.webp",
-              "producto57.4.webp",
-              "producto57.5.webp",
-              "producto57.6.webp",
-              "producto57.7.webp"
+              "/img/producto57.1.webp",
+              "/img/producto57.2.webp",
+              "/img/producto57.3.webp",
+              "/img/producto57.4.webp",
+              "/img/producto57.5.webp",
+              "/img/producto57.6.webp",
+              "/img/producto57.7.webp"
             ]
           }
         ],
@@ -2101,11 +2101,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto58.1.webp",
-              "producto58.2.webp",
-              "producto58.3.webp",
-              "producto58.4.webp",
-              "producto58.5.webp"
+              "/img/producto58.1.webp",
+              "/img/producto58.2.webp",
+              "/img/producto58.3.webp",
+              "/img/producto58.4.webp",
+              "/img/producto58.5.webp"
             ]
           }
         ],
@@ -2137,10 +2137,10 @@
           {
             "color": "Rosa",
             "fotosProducto": [
-              "producto59.1.webp",
-              "producto59.2.webp",
-              "producto59.3.webp",
-              "producto59.4.webp"
+              "/img/producto59.1.webp",
+              "/img/producto59.2.webp",
+              "/img/producto59.3.webp",
+              "/img/producto59.4.webp"
             ]
           }
         ],
@@ -2172,10 +2172,10 @@
           {
             "color": "Verde",
             "fotosProducto": [
-              "producto60.1.webp",
-              "producto60.2.webp",
-              "producto60.3.webp",
-              "producto60.4.webp"
+              "/img/producto60.1.webp",
+              "/img/producto60.2.webp",
+              "/img/producto60.3.webp",
+              "/img/producto60.4.webp"
             ]
           }
         ],
@@ -2207,11 +2207,11 @@
           {
             "color": "Crudo",
             "fotosProducto": [
-              "producto61.1.webp",
-              "producto61.2.webp",
-              "producto61.3.webp",
-              "producto61.4.webp",
-              "producto61.5.webp"
+              "/img/producto61.1.webp",
+              "/img/producto61.2.webp",
+              "/img/producto61.3.webp",
+              "/img/producto61.4.webp",
+              "/img/producto61.5.webp"
             ]
           }
         ],
@@ -2243,10 +2243,10 @@
           {
             "color": "Crudo",
             "fotosProducto": [
-              "producto62.1.webp",
-              "producto62.2.webp",
-              "producto62.3.webp",
-              "producto62.4.webp"
+              "/img/producto62.1.webp",
+              "/img/producto62.2.webp",
+              "/img/producto62.3.webp",
+              "/img/producto62.4.webp"
             ]
           }
         ],
@@ -2278,10 +2278,10 @@
           {
             "color": "Crudo",
             "fotosProducto": [
-              "producto63.1.webp",
-              "producto63.2.webp",
-              "producto63.3.webp",
-              "producto63.4.webp"
+              "/img/producto63.1.webp",
+              "/img/producto63.2.webp",
+              "/img/producto63.3.webp",
+              "/img/producto63.4.webp"
             ]
           }
         ],
@@ -2313,10 +2313,10 @@
           {
             "color": "Verde",
             "fotosProducto": [
-              "producto64.1.webp",
-              "producto64.2.webp",
-              "producto64.3.webp",
-              "producto64.4.webp"
+              "/img/producto64.1.webp",
+              "/img/producto64.2.webp",
+              "/img/producto64.3.webp",
+              "/img/producto64.4.webp"
             ]
           }
         ],
@@ -2348,11 +2348,11 @@
           {
             "color": "Beige",
             "fotosProducto": [
-              "producto65.1.webp",
-              "producto65.2.webp",
-              "producto65.3.webp",
-              "producto65.4.webp",
-              "producto65.5.webp"
+              "/img/producto65.1.webp",
+              "/img/producto65.2.webp",
+              "/img/producto65.3.webp",
+              "/img/producto65.4.webp",
+              "/img/producto65.5.webp"
             ]
           }
         ],
@@ -2384,10 +2384,10 @@
           {
             "color": "Café",
             "fotosProducto": [
-              "producto66.1.webp",
-              "producto66.2.webp",
-              "producto66.3.webp",
-              "producto66.4.webp"
+              "/img/producto66.1.webp",
+              "/img/producto66.2.webp",
+              "/img/producto66.3.webp",
+              "/img/producto66.4.webp"
             ]
           }
         ],
@@ -2419,11 +2419,11 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto67.1.webp",
-              "producto67.2.webp",
-              "producto67.3.webp",
-              "producto67.4.webp",
-              "producto67.5.webp"
+              "/img/producto67.1.webp",
+              "/img/producto67.2.webp",
+              "/img/producto67.3.webp",
+              "/img/producto67.4.webp",
+              "/img/producto67.5.webp"
             ]
           }
         ],
@@ -2455,9 +2455,9 @@
           {
             "color": "Rojo",
             "fotosProducto": [
-              "producto68.1.webp",
-              "producto68.2.webp",
-              "producto68.3.webp"
+              "/img/producto68.1.webp",
+              "/img/producto68.2.webp",
+              "/img/producto68.3.webp"
             ]
           }
         ],
@@ -2489,11 +2489,11 @@
           {
             "color": "Amarillo",
             "fotosProducto": [
-              "producto69.1.webp",
-              "producto69.2.webp",
-              "producto69.3.webp",
-              "producto69.4.webp",
-              "producto69.5.webp"
+              "/img/producto69.1.webp",
+              "/img/producto69.2.webp",
+              "/img/producto69.3.webp",
+              "/img/producto69.4.webp",
+              "/img/producto69.5.webp"
             ]
           }
         ],
@@ -2525,10 +2525,10 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto70.1.webp",
-              "producto70.2.webp",
-              "producto70.3.webp",
-              "producto70.4.webp"
+              "/img/producto70.1.webp",
+              "/img/producto70.2.webp",
+              "/img/producto70.3.webp",
+              "/img/producto70.4.webp"
             ]
           }
         ],
@@ -2560,11 +2560,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto71.1.webp",
-              "producto71.2.webp",
-              "producto71.3.webp",
-              "producto71.4.webp",
-              "producto71.5.webp"
+              "/img/producto71.1.webp",
+              "/img/producto71.2.webp",
+              "/img/producto71.3.webp",
+              "/img/producto71.4.webp",
+              "/img/producto71.5.webp"
             ]
           }
         ],
@@ -2596,10 +2596,10 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto72.1.webp",
-              "producto72.2.webp",
-              "producto72.3.webp",
-              "producto72.4.webp"
+              "/img/producto72.1.webp",
+              "/img/producto72.2.webp",
+              "/img/producto72.3.webp",
+              "/img/producto72.4.webp"
             ]
           }
         ],
@@ -2631,10 +2631,10 @@
           {
             "color": "Gris",
             "fotosProducto": [
-              "producto73.1.webp",
-              "producto73.2.webp",
-              "producto73.3.webp",
-              "producto73.4.webp"
+              "/img/producto73.1.webp",
+              "/img/producto73.2.webp",
+              "/img/producto73.3.webp",
+              "/img/producto73.4.webp"
             ]
           }
         ],
@@ -2666,10 +2666,10 @@
           {
             "color": "Gris",
             "fotosProducto": [
-              "producto74.1.webp",
-              "producto74.2.webp",
-              "producto74.3.webp",
-              "producto74.4.webp"
+              "/img/producto74.1.webp",
+              "/img/producto74.2.webp",
+              "/img/producto74.3.webp",
+              "/img/producto74.4.webp"
             ]
           }
         ],
@@ -2701,11 +2701,11 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto75.1.webp",
-              "producto75.2.webp",
-              "producto75.3.webp",
-              "producto75.4.webp",
-              "producto75.5.webp"
+              "/img/producto75.1.webp",
+              "/img/producto75.2.webp",
+              "/img/producto75.3.webp",
+              "/img/producto75.4.webp",
+              "/img/producto75.5.webp"
             ]
           }
         ],
@@ -2737,10 +2737,10 @@
           {
             "color": "Azul",
             "fotosProducto": [
-              "producto76.1.webp",
-              "producto76.2.webp",
-              "producto76.3.webp",
-              "producto76.4.webp"
+              "/img/producto76.1.webp",
+              "/img/producto76.2.webp",
+              "/img/producto76.3.webp",
+              "/img/producto76.4.webp"
             ]
           }
         ],
@@ -2772,11 +2772,11 @@
           {
             "color": "Crudo",
             "fotosProducto": [
-              "producto77.1.webp",
-              "producto77.2.webp",
-              "producto77.3.webp",
-              "producto77.4.webp",
-              "producto77.5.webp"
+              "/img/producto77.1.webp",
+              "/img/producto77.2.webp",
+              "/img/producto77.3.webp",
+              "/img/producto77.4.webp",
+              "/img/producto77.5.webp"
             ]
           }
         ],
@@ -2808,10 +2808,10 @@
           {
             "color": "Azul claro",
             "fotosProducto": [
-              "producto78.1.webp",
-              "producto78.2.webp",
-              "producto78.3.webp",
-              "producto78.4.webp"
+              "/img/producto78.1.webp",
+              "/img/producto78.2.webp",
+              "/img/producto78.3.webp",
+              "/img/producto78.4.webp"
             ]
           }
         ],
@@ -2843,11 +2843,11 @@
           {
             "color": "Negro",
             "fotosProducto": [
-              "producto79.1.webp",
-              "producto79.2.webp",
-              "producto79.3.webp",
-              "producto79.4.webp",
-              "producto79.5.webp"
+              "/img/producto79.1.webp",
+              "/img/producto79.2.webp",
+              "/img/producto79.3.webp",
+              "/img/producto79.4.webp",
+              "/img/producto79.5.webp"
             ]
           }
         ],
@@ -2879,10 +2879,10 @@
           {
             "color": "Café",
             "fotosProducto": [
-              "producto80.1.webp",
-              "producto80.2.webp",
-              "producto80.3.webp",
-              "producto80.4.webp"
+              "/img/producto80.1.webp",
+              "/img/producto80.2.webp",
+              "/img/producto80.3.webp",
+              "/img/producto80.4.webp"
             ]
           }
         ],
